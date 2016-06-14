@@ -1,3 +1,5 @@
+## We no longer maintain this repository. [Use yii2-behaviors](https://github.com/consultnn/yii2-behaviors)
+
 # yii2-mongodb-types
 Extension of the class [yii\base\Behavior](https://github.com/yiisoft/yii2/blob/master/framework/base/Behavior.php) to convert attribute for all simple [types](https://github.com/yiisoft/yii2/blob/master/framework/base/Behavior.php) and mongoDb types.
 ##### Example of a call from the model.
